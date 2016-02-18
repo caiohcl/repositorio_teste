@@ -1,1 +1,2 @@
-Arquivo teste add master
+AAAAAAAAArquivo teste add master
+Arquivo com alteracao 1 - alteracao feita no master
